@@ -1,2 +1,5 @@
 # idae-app.github.io
-Website for idea.app, which maintains the Idae api-server, plus a whole family of Idaes — ‘Installable Dependable App Endpoints’.
+
+__Website for idae.app, which maintains the Idae api-server, plus a whole family of Idaes — ‘Installable Dependable App Endpoints’.__
+
+https://idae.app/
